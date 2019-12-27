@@ -388,4 +388,4 @@ declare namespace ajv {
   }
 }
 
-export = ajv;
+export default ajv;
